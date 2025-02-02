@@ -1,0 +1,51 @@
+id,text,option_a,option_b,option_c,option_d,correct_answer,marks
+1,What is the capital of France?,Paris,Lyon,Marseille,Nice,A,5
+2,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B,5
+3,Who wrote 'Hamlet'?,Charles Dickens,William Shakespeare,Mark Twain,Jane Austen,B,10
+4,What is 5 + 7?,11,12,13,14,B,5
+5,Which element has the atomic number 1?,Helium,Oxygen,Hydrogen,Nitrogen,C,5
+6,What is the square root of 64?,6,7,8,9,C,5
+7,Who painted the Mona Lisa?,Leonardo da Vinci,Pablo Picasso,Claude Monet,Van Gogh,A,10
+8,What is the capital of Japan?,Beijing,Tokyo,Seoul,Kyoto,B,5
+9,What is the freezing point of water in Celsius?,0,10,32,100,A,5
+10,Which gas do plants primarily use during photosynthesis?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,B,5
+11,What is the largest mammal?,Elephant,Whale,Giraffe,Hippopotamus,B,10
+12,Which continent is known as the 'Dark Continent'?,Asia,Europe,Australia,Africa,D,5
+13,What is the longest river in the world?,Amazon,Nile,Ganges,Yangtze,B,10
+14,What is 15 × 3?,30,35,40,45,D,5
+15,Which organ in the human body is responsible for pumping blood?,Heart,Liver,Lungs,Kidney,A,5
+16,What is the smallest prime number?,0,1,2,3,C,5
+17,Which year did World War II end?,1939,1941,1945,1950,C,10
+18,What is the primary language spoken in Brazil?,Spanish,Portuguese,French,English,B,5
+19,What does DNA stand for?,Deoxyribonucleic Acid,Dinuclear Acid,Double Helix Acid,Deoxyribose Acid,A,10
+20,Which animal is known as the 'Ship of the Desert'?,Horse,Camel,Elephant,Dog,B,5
+21,What is the boiling point of water in Celsius?,50,90,100,120,C,5
+22,Which country is famous for its maple syrup?,USA,Canada,UK,Australia,B,5
+23,What is the capital of Australia?,Sydney,Melbourne,Canberra,Perth,C,5
+24,Which instrument has 88 keys?,Violin,Guitar,Piano,Drum,C,5
+25,What is the chemical symbol for Gold?,Ag,Au,Gd,Pt,B,10
+26,Which mountain is the highest in the world?,K2,Everest,Kangchenjunga,Annapurna,B,10
+27,What is 9 squared?,81,72,64,49,A,5
+28,Who invented the telephone?,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Albert Einstein,A,10
+29,What is the capital of Italy?,Rome,Venice,Milan,Naples,A,5
+30,What is the hardest natural substance on Earth?,Gold,Diamond,Platinum,Iron,B,10
+31,Which planet is the largest in the Solar System?,Earth,Saturn,Jupiter,Neptune,C,5
+32,Who discovered penicillin?,Marie Curie,Alexander Fleming,Louis Pasteur,Isaac Newton,B,10
+33,What is the value of pi up to two decimal places?,3.14,3.15,3.13,3.12,A,5
+34,What is the national flower of Japan?,Rose,Cherry Blossom,Lily,Daisy,B,5
+35,What is the fastest land animal?,Cheetah,Lion,Horse,Leopard,A,10
+36,Which is the nearest star to Earth?,Sirius,Polaris,Alpha Centauri,Sun,D,10
+37,What is the chemical formula for water?,H,O,H2O,CO2,C,5
+38,What is the largest ocean?,Atlantic,Indian,Arctic,Pacific,D,5
+39,Which country hosted the 2020 Olympics?,USA,China,Japan,Brazil,C,5
+40,What is the color of chlorophyll?,Red,Yellow,Green,Blue,C,5
+41,Which country is called the Land of Rising Sun?,China,Japan,Korea,India,B,5
+42,What is 50 divided by 5?,5,10,15,20,B,5
+43,Who discovered gravity?,Albert Einstein,Isaac Newton,Galileo Galilei,Nikola Tesla,B,10
+44,What is the capital of Canada?,Ottawa,Toronto,Vancouver,Montreal,A,5
+45,What is the unit of electric current?,Volt,Ohm,Watt,Ampere,D,5
+46,Which country is known for its pyramids?,India,USA,Egypt,Greece,C,10
+47,Which element has the chemical symbol 'O'?,Oxygen,Gold,Iron,Nitrogen,A,5
+48,What is the process of water changing into vapor called?,Condensation,Evaporation,Freezing,Melting,B,5
+49,Which animal is the tallest in the world?,Giraffe,Elephant,Kangaroo,Horse,A,5
+50,What is the national currency of the USA?,Dollar,Euro,Pound,Yen,A,5
